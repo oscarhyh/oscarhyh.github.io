@@ -9,7 +9,7 @@
 - 微信号：OscarHYH95  
 ---    
 # 个人信息
- - 何泳豪Oscar/男/1995 
+ - Oscar_HYH/男/1995 
  - （硕士）应用心理学/武汉大学
  - （本科）旅游管理学/暨南大学
  - Github：http://github.com/OscarHYH
